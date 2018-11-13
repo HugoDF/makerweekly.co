@@ -1,0 +1,23 @@
+hugo:
+  name: Hugo
+  picture: /images/hugo.jpg
+  twitter: "@hugo__df"
+  links:
+    - title: Twitter
+      url: https://twitter.com/hugo__df
+      icon: fab fa-twitter-square
+    - title: Code with Hugo
+      url: https://codewithhugo.com
+      icon: fas fa-link
+    - title: GitHub
+      url: https://github.com/HugoDF
+      icon: fab fa-github-square
+
+dante:
+  name: Dante
+  picture: https://pbs.twimg.com/profile_images/1050493896281743365/IC_KdUZj_400x400.jpg
+  twitter: "@dantelex"
+  links:
+    - title: Twitter
+      url: https://twitter.com/dantelex
+      icon: fab fa-twitter-square
