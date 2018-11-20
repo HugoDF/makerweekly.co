@@ -1,7 +1,7 @@
 ---
 title: "Doing something > What you call it"
 date: 2018-11-22
-author: dante
+author: hugo
 categories:
     - startup
 tags:
@@ -63,3 +63,6 @@ No matter what you think, it seems to have worked.
 Hundreds of individuals in the space contributed and used this as an opportunity to go beyond what they do in their day to day.
 
 Great work [@thepatwalls](https://twitter.com/thepatwalls) and the entire team of #24hrstartup
+
+
+This discussion was posted on Twitter first, follow us [@makerweekly](https://twitter.com/makerweekly)
