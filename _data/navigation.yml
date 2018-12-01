@@ -8,3 +8,5 @@
   url: /categories/
 - title: Tags
   url: /tags/
+- title: Subscribe
+  url: 'https://buttondown.email/makerweekly'

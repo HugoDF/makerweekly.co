@@ -79,6 +79,9 @@ defaults:
 
 # Footer Links
 footer_links:
+  - title: email
+    url: https://buttondown.email/makerweekly
+    icon: fas fa-envelope-square
   - title: Twitter
     url: https://twitter.com/makerweekly
     icon: fab fa-twitter-square

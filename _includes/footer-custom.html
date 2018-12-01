@@ -1,17 +1,69 @@
+<style>
+    .subscribe-form {
+        max-width: 320px;
+        width: 100%;
+        margin: auto;
+    }
+    .subscribe-text {
+        text-align: left;
+    }
+    label {
+        color: #7e8a9a;
+        margin-bottom: 0.25em;
+        display: inline-block;
+        text-align: left;
+        width: 100%;
+    }
+    input[type="email"] {
+        border: 1px solid #ced3d9;
+        border-radius: 4px;
+        display: block;
+        padding: 0.75em 1em;
+        width: 100%;
+        margin-bottom: 1em;
+        box-sizing: border-box;
+        font-size: 16px;
+        line-height: 1.4em;
+    }
+    input[type="submit"] {
+        display: inline-block;
+        width: 100%;
+        background: #FE768A;
+        border: 0;
+        border-radius: 0.25em;
+        color: #fff;
+        outline: 0;
+        padding: 0.75em 1em;
+        font-size: 16px;
+        box-sizing: border-box;
+        cursor: pointer;
+        margin-bottom: 0.5em;
+    }
+</style>
+<form class="subscribe-form" action="https://buttondown.email/api/emails/embed-subscribe/makerweekly" method="post"
+    target="popupwindow" onsubmit="window.open('https://buttondown.email/makerweekly', 'popupwindow')" class="embeddable-buttondown-form">
+    <p class="subscribe-text">For your dose of indiemaker and bootstrapped startup news every week.</p>
+    <label for="bd-email">Enter your email</label>
+    <input type="email" name="email" id="bd-email">
+    <input type="hidden" value="1" name="embed" />
+    <input type="submit" value="Subscribe" />
+</form>
+
 <script>
-    (function(d, h, m){
+    (function (d, h, m) {
         var js, fjs = d.getElementsByTagName(h)[0];
-        if (d.getElementById(m)){return;}
+        if (d.getElementById(m)) { return; }
         js = d.createElement(h); js.id = m;
-        js.onload = function(){
+        js.onload = function () {
             window.makerWidgetComInit({
-            position: "left",          
-            widget: "gecuu3m8dakkgdsz-73wdmunb3tysmnja-ayxfh53g4k74qkw3"                
-        })};
+                position: "left",
+                widget: "gecuu3m8dakkgdsz-73wdmunb3tysmnja-ayxfh53g4k74qkw3"
+            })
+        };
         js.src = "https://makerwidget.com/js/embed.js";
         fjs.parentNode.insertBefore(js, fjs)
     }(document, "script", "dhm"))
 </script>
 
-<script async src="https://cdn.simpleanalytics.io/hello.js"></script> 
+<script async src="https://cdn.simpleanalytics.io/hello.js"></script>
 <noscript><img src="https://api.simpleanalytics.io/hello.gif" alt=""></noscript>
