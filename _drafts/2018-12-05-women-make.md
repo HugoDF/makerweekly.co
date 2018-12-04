@@ -40,8 +40,8 @@ Extra 👏 for this being her most prolific month:
 
 [@stephsmithio](https://twitter.com/stephsmithio) with
 
-- [femake.tech](http://femake.tech) - 
-- [eunoia.world/](http://eunoia.world/) - 
+- [femake.tech](http://femake.tech) - 👩‍💻 The home of data on female makers.
+- [eunoia.world/](http://eunoia.world/) - Words That Don't Translate
 
 [@jesswallaceuk](https://twitter.com/jesswallaceuk) with [coderstory.io](https://coderstory.io)
 
@@ -49,8 +49,10 @@ And many more, go check them out [@women_make_](https://twitter.com/women_make_)
 
 ## Ways to stay informed
 
-There's a podcast 🎧 https://womenmake.com/podcast 
+There's a podcast 🎧 [womenmake.com/podcast](https://womenmake.com/podcast) 
 
 We're huge fans.
 
-Subscribe, follow, join the movement 👍
+Subscribe, follow, join the movement 👍, [@women_make_](https://twitter.com/women_make_).
+
+You can follow [@makerweekly](https://twitter.com/makerweekly) for updates [or join the mailing list](#bd-email).
