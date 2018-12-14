@@ -69,7 +69,7 @@ Tech Enthusiasts
 
 For Dev jobs
 
-👩‍💻 [Remote Jobs for Developers, Designers, Writers, Marketing & more](https://remoter.net/) by https://twitter.com/dzumax
+👩‍💻 [Remote Jobs for Developers, Designers, Writers, Marketing & more](https://remoter.net/) by [@dzumax](https://twitter.com/dzumax)
 
 ⌨️ [DevSnap - All developer jobs in one place](https://devsnap.io) by [@kunnendavid](https://twitter.com/kunnendavid)
 
