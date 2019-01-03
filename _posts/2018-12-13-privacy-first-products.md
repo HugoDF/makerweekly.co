@@ -65,6 +65,8 @@ There’s also the original privacy-first company: [@duckduckgo](https://twitter
 
 Products are now being branded as privacy-first eg. @pierregillesl’s Gladys Gateway 
 
+Or Leave Me Alone [leavemealone.xyz](https://leavemealone.xyz/index.html) - a product that will "Take back control of your inbox by telling subscription spammers to leave you alone!"
+
 Here’s a write-up of why that might be: [blog.simpleanalytics.io/why-privacy-first-products-will-make-business-sense](https://blog.simpleanalytics.io/why-privacy-first-products-will-make-business-sense)
 
 
